@@ -1,0 +1,19 @@
+{
+  "name": "shinkansenproject",
+  "version": "1.0.0",
+  "description": "Study Japanese as Fast as a Shinkansen!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidneytatkins/shinkansenProject.git"
+  },
+  "author": "Sidney Atkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidneytatkins/shinkansenProject/issues"
+  },
+  "homepage": "https://github.com/sidneytatkins/shinkansenProject#readme"
+}
